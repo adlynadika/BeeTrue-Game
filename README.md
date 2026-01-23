@@ -16,9 +16,3 @@ Play the game here: [BeeTrue Demo](https://github.com/adlynadika/BeeTrue-Game/re
 
 ## 📸 Screenshots
 ![Gameplay Screenshot](docs/screenshot1.png)
-
-## 📂 Repo Structure
-- `Assets/` → sprites, UI, dialogue
-- `Scripts/` → C# game logic
-- `Docs/` → design notes, RIASEC question set
-- `Builds/` → exported builds
