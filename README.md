@@ -10,7 +10,7 @@ An interactive 2D game integrating 48 RIASEC-based questions across 6 subgames, 
 - Collaboration invitations from external stakeholders
 
 ## 🚀 Demo
-Play the game here: [BeeTrue Demo](https://github.com/adlynadika/BeeTrue-Game/releases/tag/v1.0)
+Play the game here: [BeeTrue Demo](https://github.com/adlynadika/BeeTrue-Game/releases/tag/1.0))
 
 ## 🛠 Tech Stack
 - Unity (C#)
